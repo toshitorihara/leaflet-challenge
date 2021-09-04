@@ -24,3 +24,6 @@ Your `data markers` should reflect the magnitude of the earthquake by their size
 Plot a second data set from [World Tectonic Plates and Boundaries](https://github.com/fraxen/tectonicplates) to our map to illustrate the relationship between tectonic plates and seismic activity, and visualize it alongside your original set of data. 
    * Add a number of `base maps` to choose from as well as separate out our two different data sets into `overlays` that can be turned on and off independently.
    * Add `layer controls` to our map.
+
+# Submission
+https://toshitorihara.github.io/leaflet-challenge/
