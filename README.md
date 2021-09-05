@@ -22,5 +22,3 @@ Plot a second data set from [World Tectonic Plates and Boundaries](https://githu
    * Add a number of `baseMaps` to choose from as well as separate out two different data sets into `overlayMaps` that can be turned on and off independently.
    * Add `Layer Control` to the map.
 ![5-Advanced](Images/5-Advanced.png)
-# Submission
-https://toshitorihara.github.io/leaflet-challenge/
