@@ -1,5 +1,5 @@
 # Adding config.js file.
-*config.js
+static/config.js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
